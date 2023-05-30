@@ -1,0 +1,11 @@
+C:\Users\User\source\repos\RP Installer\RP Installer\bin\Debug\RP Installer.exe.config
+C:\Users\User\source\repos\RP Installer\RP Installer\bin\Debug\RP Installer.exe
+C:\Users\User\source\repos\RP Installer\RP Installer\bin\Debug\RP Installer.pdb
+C:\Users\User\source\repos\RP Installer\RP Installer\obj\Debug\RP Installer.csproj.AssemblyReference.cache
+C:\Users\User\source\repos\RP Installer\RP Installer\obj\Debug\RP Installer.csproj.SuggestedBindingRedirects.cache
+C:\Users\User\source\repos\RP Installer\RP Installer\obj\Debug\RP_Installer.Form1.resources
+C:\Users\User\source\repos\RP Installer\RP Installer\obj\Debug\RP_Installer.Properties.Resources.resources
+C:\Users\User\source\repos\RP Installer\RP Installer\obj\Debug\RP Installer.csproj.GenerateResource.cache
+C:\Users\User\source\repos\RP Installer\RP Installer\obj\Debug\RP Installer.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\RP Installer\RP Installer\obj\Debug\RP Installer.exe
+C:\Users\User\source\repos\RP Installer\RP Installer\obj\Debug\RP Installer.pdb
